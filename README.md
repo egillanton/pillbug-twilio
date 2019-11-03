@@ -93,7 +93,7 @@ Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 * [Aliyah Desautels](https://github.com/itsnotaliyah)
 
 ## 4 License
-This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 5 References
 * [Twilio Python API](https://www.twilio.com/docs/sms/quickstart/python#install-python-and-the-twilio-helper-library
